@@ -1,2 +1,2 @@
 # react_template
-搭建一个简答的react模版
+create a simple react_template
